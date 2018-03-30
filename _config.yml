@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chao Shang"
+title                    : "Qinqing Liu"
 title_separator          : "-"
-name                     : &name "Chao Shang"
+name                     : &name "Qinqing Liu"
 description              : &description "Ph.D. student at University of Connecticut "
-url                      : https://chaoshangcs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Luckick.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chaoshangcs.github.io"
+repository               : "Luckick.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chao Shang"
-  avatar           : "my.jpg"
+  name             : "Qinqing Liu"
+  avatar           : #"my.jpg"
   bio              : "Ph.D. student at University of Connecticut, expert in Machine Learning"
   location         : "Connecticut"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=u_g_wSoAAAAJ&hl=en"
-  email            : "shangchaocs@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=L66Qm_cAAAAJ&hl=en"
+  email            : "liuqinqing94@gmail.com"
   url              : 
   bitbucket        :
   codepen          :
@@ -92,12 +92,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chaoshangcs"
+  github           : "Luckick"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "chaoshang"
+  linkedin         : "https://www.linkedin.com/in/qinqing-liu-3b907446/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
